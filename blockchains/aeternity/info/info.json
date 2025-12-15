@@ -1,29 +1,16 @@
+
 {
-    "name": "Aeternity",
-    "website": "https://aeternity.com",
-    "description": "Aeternity is a blockchain platform with turing complete smart contracts. The platform implemented decentralized oracles to make it possible for decentralized applications to use real world data.",
-    "explorer": "https://www.aeknow.org/",
-    "research": "https://research.binance.com/en/projects/aeternity",
-    "symbol": "AE",
-    "type": "coin",
-    "decimals": 18,
-    "status": "active",
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/aeternity"
-        },
-        {
-            "name": "x",
-            "url": "https://x.com/aeternity"
-        },
-        {
-            "name": "reddit",
-            "url": "https://reddit.com/r/Aeternity"
-        },
-        {
-            "name": "whitepaper",
-            "url": "https://github.com/aeternity/white-paper/blob/master/paper.pdf"
-        }
-    ]
+  "id": "dr3",
+  "type": "token",
+  "status": "active",
+  "symbol": "DR3",
+  "decimals": 18,
+  "links": {
+    "logo": "https://raw.githubusercontent.com/redmi7feb2025-rgb/assets/master/blockchains/polygon/assets/0x888CC6Efc3E138852D90B2b6b3D113B2AE1dD137/logo.png",
+    "website": "https://danareward.online/",
+    "explorer": "https://polygonscan.com/token/0x888CC6Efc3E138852D90B2b6b3D113B2AE1dD137",
+    "twitter": "https://twitter.com/yourproject",
+    "github": "https://github.com/yourproject"
+  },
+  "tags": ["polygon", "reward", "defi"]
 }
